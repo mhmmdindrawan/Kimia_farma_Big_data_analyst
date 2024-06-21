@@ -25,10 +25,6 @@ Project Based Internship (PBI) is a virtual internship program by Rakamin Academ
 - &nbsp;&nbsp;&nbsp;&nbsp; Kantor Cabang<br>
 - &nbsp;&nbsp;&nbsp;&nbsp; Product<br>
 
-## Conclusion
-
-In conclusion, this README provides an overview of this project, including installation steps, usage instructions, and relevant additional information. We hope the information presented here is beneficial to both users and contributors of this project.
-
 Thank you for visiting my project!
 
 ---
